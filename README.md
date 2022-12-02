@@ -20,6 +20,11 @@ The goal of this kata is to use a test driven design (TDD) approach to successfu
 * The Game class that has two methods
     * Bowl(Frame frame) for each frame of the game
     * GetScore() is called at the end of the game to give a total score.  This is the method you must alter to get the tests to pass.
+    
+# Example Score Sheet
+<div align="center">
+    <img src="assets/bowling-score-sheet.svg" height="100" />
+</div>
 
 # Resources
 This kata was inspired by a similar one written by [Brain Franks](https://github.com/FranksBrain/BowlingKata/blob/master/README.md)
